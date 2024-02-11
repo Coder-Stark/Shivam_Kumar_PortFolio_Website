@@ -961,7 +961,7 @@ body.light-theme {
   }
 }
 
-@media screen and (min-width: 435px) {
+/* @media screen and (min-width: 435px) {
   .work__container {
     justify-content: center;
     grid-template-columns: repeat(2, max-content);
@@ -970,7 +970,7 @@ body.light-theme {
   .work__img {
     width: 165px;
   }
-}
+} */
 
 /* For medium devices */
 @media screen and (min-width: 630px) {
