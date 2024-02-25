@@ -1043,13 +1043,13 @@ body.light-theme {
 
   .contact__container {
     display: grid;
-    grid-template-columns: 220px 340px;
+    grid-template: 220px 340px;
     column-gap: 2rem;
     justify-content: center;
   }
 
   .contact__info {
-    grid-template-columns: 200px;
+    grid-template: 300px;
     gap: 1rem;
   }
 
@@ -1209,7 +1209,6 @@ body.light-theme {
   }
 
   .contact__container {
-    grid-template-columns: repeat(2, 430px);
     column-gap: 6rem;
   }
 
